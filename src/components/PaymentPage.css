@@ -1,0 +1,23 @@
+.mainboxx{
+    top:20%;
+    left:30%;
+    padding:4vh 4vw;
+    width: 35%;
+    border-radius: 20px;
+    background-color: white;
+    position:absolute;
+}
+.buttonp{
+    background-color:white;
+    color:#1e4c90;
+    border: 2px solid #1e4c90;
+    padding:5px;
+    border-radius: 5px;
+}
+.cancelb{
+    border: none;
+    color: #1e4c90;
+    background-color: white;
+    position:absolute;
+    left:80%;
+}

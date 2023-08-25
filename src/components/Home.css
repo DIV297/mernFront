@@ -1,0 +1,62 @@
+.mainbox{
+    position: absolute;
+    width:100%;
+    height: 100%;
+    background-color: white;
+    padding-left: 20%;
+}
+.servicebutton{
+    border: none;
+background-color:#7994bd;
+color:white;
+padding:30px 15px;
+}
+.servicebutton:focus{
+    background-color:#1e4c90;
+}
+.stripe{
+    margin:3% 18%;
+    width: 40%;
+    background-color:#1e4c90;
+}
+.mainbuttons{
+
+    border: none;
+    border-radius: 100px;
+    background-color: #1e4c90;
+    color:white;
+    padding:10px;
+}
+.mainbuttons:hover{
+    background-color: white;
+    color:#1e4c90;
+}
+.mainbuttons:focus{
+    background-color: white;
+    color:#1e4c90;
+}
+
+.slidebar{
+    margin:30px 8px;
+    border-radius: 50px;
+    padding:10px 20px; 
+    display: flex;
+    background-color:#1e4c90
+}
+
+.btmborder{ 
+    border-bottom:2px solid grey;
+}
+table{
+    width:50%;
+}
+td,th{
+    padding:10px 30px;
+    font-weight: 400;
+    color:gray;
+    text-align: center;
+}
+.darktext{
+    color:#1e4c90;
+    font-weight:500;
+}
